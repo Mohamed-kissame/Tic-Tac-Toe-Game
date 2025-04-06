@@ -1,0 +1,10 @@
+C:\Users\mkiss\OneDrive\Bureau\Tik-Tak-Tok-Game\bin\Debug\Tik-Tak-Tok-Game.exe.config
+C:\Users\mkiss\OneDrive\Bureau\Tik-Tak-Tok-Game\bin\Debug\Tik-Tak-Tok-Game.exe
+C:\Users\mkiss\OneDrive\Bureau\Tik-Tak-Tok-Game\bin\Debug\Tik-Tak-Tok-Game.pdb
+C:\Users\mkiss\OneDrive\Bureau\Tik-Tak-Tok-Game\obj\Debug\Tik-Tak-Tok-Game.csproj.AssemblyReference.cache
+C:\Users\mkiss\OneDrive\Bureau\Tik-Tak-Tok-Game\obj\Debug\Tik_Tak_Tok_Game.Form1.resources
+C:\Users\mkiss\OneDrive\Bureau\Tik-Tak-Tok-Game\obj\Debug\Tik_Tak_Tok_Game.Properties.Resources.resources
+C:\Users\mkiss\OneDrive\Bureau\Tik-Tak-Tok-Game\obj\Debug\Tik-Tak-Tok-Game.csproj.GenerateResource.cache
+C:\Users\mkiss\OneDrive\Bureau\Tik-Tak-Tok-Game\obj\Debug\Tik-Tak-Tok-Game.csproj.CoreCompileInputs.cache
+C:\Users\mkiss\OneDrive\Bureau\Tik-Tak-Tok-Game\obj\Debug\Tik-Tak-Tok-Game.exe
+C:\Users\mkiss\OneDrive\Bureau\Tik-Tak-Tok-Game\obj\Debug\Tik-Tak-Tok-Game.pdb
